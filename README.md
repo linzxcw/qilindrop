@@ -30,4 +30,5 @@ Enter a blank room name to return to LAN mode.
 7、连接同一内网，使用其他设备打开上述网址，如果能相互发现即安装成功。
 ### 关于打赏
 如果您喜欢本项目，欢迎打赏 :gift_heart: 
+
 ![2022166](https://github.com/user-attachments/assets/4b714721-4238-472b-b31f-a69afa816369)
